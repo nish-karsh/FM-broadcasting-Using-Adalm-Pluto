@@ -1,10 +1,13 @@
-In FM broadcasting, the frequency of the carrier wave is modulated to encode the audio signal that is being transmitted. A radio receiver (in this project, our mobile phone) extracts the original audio sound from the modulated radio signal and reproduces the audio in a loudspeaker.
+# FM-broadcasting & FM-Radio Using Adalm Pluto
+1. In FM broadcasting, the frequency of the carrier wave is modulated to encode the audio signal that is being transmitted. A radio receiver (in this project, our mobile phone) extracts the original audio sound from the modulated radio signal and reproduces the audio in a loudspeaker.
+2. In FM Radio Receiver, music from an existing Radio Station is received through Adalm-Pluto-SDR and processed to get the audio output from the speaker. 
 
 
 ### MATERIALS REQUIRED
 
 1.	Adalm Pluto SDR (along with its USB cable and antennas)
 2.	Phone with radio application and earphones (earphones act as receiver antenna)
+3. Dipole Antenna with tripod stand 
 
 ### SOFTWARES REQUIRED
 
