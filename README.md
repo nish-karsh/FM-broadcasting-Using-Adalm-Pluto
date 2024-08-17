@@ -48,9 +48,9 @@ In case you don’t already have the “Communications Toolbox Support Package f
 
 * STEP 5: In the pop-up settings for the ADALM PLUTO receiver, make sure that the “Enable output port got underflow indicator” box is deselected. And under the Center Frequency (Hz) choose a frequency that is not available/taken by any radio stations near your area. 
 
-![image](https://user-images.githubusercontent.com/59824729/119101531-b86bb980-ba36-11eb-9559-3598c6f805d0.png)
 
-I have chosen the center frequency of 97 MHz (or 97.0e6 Hz). 
+
+I have chosen the center frequency of 108 MHz (or 108.0e6 Hz). 
 
 ![image](https://user-images.githubusercontent.com/59824729/119101563-c0c3f480-ba36-11eb-8787-2fec31758cda.png)
 
