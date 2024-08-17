@@ -52,7 +52,7 @@ In case you don’t already have the “Communications Toolbox Support Package f
 
 I have chosen the center frequency of 108 MHz (or 108.0e6 Hz). 
 
-![image](https://user-images.githubusercontent.com/59824729/119101563-c0c3f480-ba36-11eb-8787-2fec31758cda.png)
+![image](https://i.postimg.cc/9MHswrff/image.png)
 
 * STEP 6: Give the stop time as infinity (inf).
 
@@ -63,9 +63,9 @@ Now the Simulink set-up is done. Let us now look at how we should set up our pho
 ##### SETTING UP OUR PHONE
 
 * STEP 1: Go to your built-in radio application or install a FM radio application.
-* STEP 2: Select the radio station frequency that you have given in your Simulink, here, 97 MHz
+* STEP 2: Select the radio station frequency that you have given in your Simulink, here, 108 MHz
 
-![image](https://user-images.githubusercontent.com/59824729/119101928-23b58b80-ba37-11eb-842d-d5c403954747.png)
+![image](https://i.postimg.cc/x1CQ9JkD/Whats-App-Image-2024-08-17-at-17-13-12-30da5079.jpg)
 
 * STEP 3: Connect your earphones to your phone to act as a receiver antenna. 
 
