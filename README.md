@@ -18,8 +18,7 @@
 
 #### HARDWARE SETUP:
 
-![image]([https://user-images.githubusercontent.com/59824729/119100286-6a09eb00-ba35-11eb-8c40-42a48779cc88.png](https://i.postimg.cc/xjzcSZwy/Whats-App-Image-2024-08-17-at-15-12-21-1ebea232.jpg))
-
+![image](https://i.postimg.cc/xjzcSZwy/Whats-App-Image-2024-08-17-at-15-12-21-1ebea232.jpg)
 * STEP 1: Connect the antennas to the ADALM PLUTO SDR
 * STEP 2: Connect the PLUTO SDR to your computer using the USB Cable
 * STEP 3: Connect your earphones to your mobile to act as a receiver Antenna and place the phone near your hardware.
