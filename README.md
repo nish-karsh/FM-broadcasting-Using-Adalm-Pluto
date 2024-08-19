@@ -74,5 +74,5 @@ Now the Simulink set-up is done. Let us now look at how we should set up our pho
 ***** 
 
 ### GNU Radio-SETUP of FM Radio Receiving:
-![image](https://i.postimg.cc/bNGmWysL/Screenshot-2024-08-19-145630.png)
+![image](https://i.postimg.cc/1RdkfYFC/Screenshot-2024-08-19-145630.png)
 
