@@ -73,7 +73,6 @@ Now the Simulink set-up is done. Let us now look at how we should set up our pho
 
 ***** 
 
-### RESOURCES
-
-1.	Laboratory 1: Introduction to Software-Defined Radio Communication Systems Laboratory
+### GNU Radio-SETUP of FM Radio Receiving:
+![image](https://i.postimg.cc/bNGmWysL/Screenshot-2024-08-19-145630.png)
 
